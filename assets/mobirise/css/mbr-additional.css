@@ -1877,6 +1877,96 @@ body {
 .cid-qTkAaeaxX5 P {
   text-align: left;
 }
+.cid-rjMrrh4KYM {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #2e2e2e;
+}
+@media (max-width: 767px) {
+  .cid-rjMrrh4KYM .content {
+    text-align: center;
+  }
+  .cid-rjMrrh4KYM .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+.cid-rjMrrh4KYM .img-logo img {
+  height: 6rem;
+}
+.cid-rjMrrh4KYM .form-group,
+.cid-rjMrrh4KYM .input-group-btn {
+  padding: 0;
+}
+.cid-rjMrrh4KYM .form-control {
+  font-size: .75rem;
+  text-align: center;
+  min-width: 150px;
+}
+.cid-rjMrrh4KYM .input-group-btn .btn {
+  padding: .75rem 1.5625rem !important;
+  margin-left: .625rem;
+  text-transform: none;
+  color: #fff;
+  text-align: center;
+}
+.cid-rjMrrh4KYM .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.cid-rjMrrh4KYM .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rjMrrh4KYM .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rjMrrh4KYM .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rjMrrh4KYM .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rjMrrh4KYM .social-list {
+    -webkit-justify-content: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rjMrrh4KYM .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rjMrrh4KYM .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rjMrrh4KYM .form-group {
+  margin: 0;
+}
+@media (max-width: 767px) {
+  .cid-rjMrrh4KYM .foot-logo {
+    text-align: center !important;
+  }
+  .cid-rjMrrh4KYM .foot-title {
+    text-align: center !important;
+  }
+  .cid-rjMrrh4KYM .mbr-text {
+    text-align: center !important;
+  }
+  .cid-rjMrrh4KYM .form-group {
+    margin: 0;
+  }
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #333333;
