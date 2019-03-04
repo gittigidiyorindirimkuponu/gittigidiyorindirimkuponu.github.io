@@ -1766,6 +1766,14 @@ body {
 .cid-qTkA127IK8 {
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rjKCQxFb27 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #efefef;
+}
+.cid-rjKCQxFb27 P {
+  color: #767676;
+}
 .cid-rjKCQ1PpbD {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1798,14 +1806,6 @@ body {
 .cid-rjKFe7Behc .mbr-iconfont {
   font-size: 80px;
   color: #149dcc;
-}
-.cid-rjKCQxFb27 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #efefef;
-}
-.cid-rjKCQxFb27 P {
-  color: #767676;
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
@@ -1873,6 +1873,9 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
+}
+.cid-qTkAaeaxX5 P {
+  text-align: left;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
