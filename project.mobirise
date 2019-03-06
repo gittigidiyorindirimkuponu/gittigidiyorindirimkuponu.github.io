@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "kampanyalar.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -818,7 +818,7 @@
     "kampanyalar.html": {
       "settings": {
         "meta_descr": "Tüm Gittigidiyor indirim kampanyalarını buradan takip edin! Gittigidiyor indirim kuponu ve güncel kampanyalar",
-        "title": "Gittigidiyor Kampanyalar Kampanyalar",
+        "title": "Gittigidiyor İndirim Kampanyaları",
         "order": 2
       },
       "components": [
