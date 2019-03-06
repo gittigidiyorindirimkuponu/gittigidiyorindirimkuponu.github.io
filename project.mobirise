@@ -40,7 +40,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "AnaSayfa",
+        "title": "Gittigidiyor İndirim Kuponu ve Kampanyalar",
         "meta_descr": "Gittigidiyor indirim kuponu ve kampanyaları tek bir sayfada topladık!  Bir tık ile alışverişinizi ucuzlatmanın keyfini Yaşayın!",
         "header_custom": "",
         "footer_custom": "",
@@ -818,8 +818,8 @@
     "kampanyalar.html": {
       "settings": {
         "meta_descr": "Tüm Gittigidiyor indirim kampanyalarını buradan takip edin! Gittigidiyor indirim kuponu ve güncel kampanyalar",
-        "title": "Kampanyalar",
-        "order": 1
+        "title": "Gittigidiyor Kampanyalar Kampanyalar",
+        "order": 2
       },
       "components": [
         {
@@ -1680,8 +1680,8 @@
     "kuponlar.html": {
       "settings": {
         "meta_descr": "Tüm Gittigidiyor indirim kampanyalarını buradan takip edin! Gittigidiyor indirim kuponu ve güncel kampanyalar",
-        "title": "Kuponlar",
-        "order": 2
+        "title": "Gittigidiyor Kuponlar",
+        "order": 3
       },
       "components": [
         {
@@ -2423,7 +2423,7 @@
       "settings": {
         "meta_descr": "iletişim için formu doldurun!",
         "title": "İletişim",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
